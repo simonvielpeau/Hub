@@ -1,0 +1,20 @@
+name: Hub
+version: 1.0
+author: No0xi
+main: fr.noxi.Hub
+commands:
+  setspawn:
+      description: setspawnbase
+      permission: admin.base
+  go:
+      description: go à une location
+      permission: staff.go
+  getUUID:
+      description: get UUID
+      permission: admin.UUID
+  gm:
+      description: changer gamemode
+      permission: admin.gm
+  fly:
+      description: fly
+      permission: staff

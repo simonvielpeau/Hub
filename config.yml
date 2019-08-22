@@ -1,0 +1,20 @@
+locations:
+  spawn: 
+    lobby:
+      x: 5.0
+      y: 4.0
+      z: 5.0
+hika:
+  1:
+    name: hika1
+    inv: 12
+  2:
+    name: hika2
+    inv: 14
+SkyWars:
+  1:
+    name: SkyWars1
+    pt: MeilleurMapEver
+    inv: 13
+ip: play.xonisland.com
+ts: ts.xonisland.com
